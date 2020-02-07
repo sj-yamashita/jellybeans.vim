@@ -480,7 +480,7 @@ call s:X("Special","799d6a","","","Green","")
 call s:X("Delimiter","668799","","","Grey","")
 
 call s:X("String","99ad6a","","","Green","")
-call s:X("StringDelimiter","556633","","bold","Magenta","")
+call s:X("StringDelimiter","c7c7c7","","bold","Yellow","")
 
 call s:X("Identifier","c6b6ee","","","LightCyan","")
 call s:X("Structure","8fbfdc","","","LightCyan","")
