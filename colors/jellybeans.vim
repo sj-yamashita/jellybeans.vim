@@ -416,7 +416,7 @@ fun! s:X(group, fg, bg, attr, lcfg, lcbg)
 endfun
 " }}}
 
-call s:X("Normal","e8e8d3",s:background_color,"","White","")
+call s:X("Normal","d5e7ed",s:background_color,"","White","")
 set background=dark
 
 call s:X("CursorLine","","1c1c1c","","",s:termBlack)
